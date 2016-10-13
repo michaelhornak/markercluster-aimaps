@@ -1,15 +1,15 @@
 {
     "name": "markercluster-aimaps",
     "version": "1.0.0",
-    "homepage": "https://github.com/Leaflet/Leaflet.markercluster",
+    "homepage": "https://github.com/michaelhornak/markercluster-aimaps",
     "authors": [
         "Dave Leaver <danzel@localhost.geek.nz>"
     ],
     "description": "Marker Clustering plugin for Leaflet.",
     "main": [
-        "dist/leaflet.markercluster-src.js",
-        "dist/MarkerCluster.css",
-        "dist/MarkerCluster.Default.css"
+        "leaflet.markercluster.js",
+        "MarkerCluster.css",
+        "MarkerCluster.Default.css"
     ],
     "license": "MIT",
     "ignore": [
