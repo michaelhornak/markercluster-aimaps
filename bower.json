@@ -7,8 +7,7 @@
     ],
     "description": "Marker Clustering plugin for Leaflet.",
     "main": [
-        "leaflet.markercluster.js",
-        "MarkerCluster.css",
+        "leaflet.markercluster.js",      
         "MarkerCluster.Default.css"
     ],
     "license": "MIT",
